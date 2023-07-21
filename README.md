@@ -1,5 +1,7 @@
-### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mikk0git)](https://git.io/streak-stats)
+### Hi there ![](https://media.discordapp.net/attachments/923569968711360602/929787894799949925/IMG_8614.gif)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mikk0git&theme=tokyonight)](https://git.io/streak-stats)
+
+![](https://dcbadge.vercel.app/api/shield/428998876545155073)
 <!--
 **Mikk0git/Mikk0git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
